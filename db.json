@@ -1,0 +1,19 @@
+{
+  "taks": [
+    {
+      "title": "makan",
+      "category": "Backend",
+      "id": 1
+    },
+    {
+      "title": "minum",
+      "category": "Frontend",
+      "id": 2
+    },
+    {
+      "title": "tidur",
+      "category": "Mobile",
+      "id": 3
+    }
+  ]
+}
